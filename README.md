@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Himadri Paul</h1>
+<h1 align="center">Hi 👋, I'm Himadri Paul</h1>
 <h3 align="center">Salesforce Developer | React Learner | JavaScript Enthusiast</h3>
 
 <p align="center">
@@ -98,6 +98,12 @@ Salesforce Development · Lightning Web Components · React Applications · REST
 
 [![GitHub](https://img.shields.io/badge/GitHub-Himadri--sfdc-181717?style=flat-square&logo=github)](https://github.com/Himadri-sfdc)
 <!-- Add your LinkedIn URL to the link below -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
+
+---
+
+<p align="center">⭐ Feel free to explore my repositories — and star any you find useful!</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
 
 ---
