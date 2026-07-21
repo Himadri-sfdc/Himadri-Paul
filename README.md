@@ -1,84 +1,110 @@
-# 👋 Hi, I'm Himadri Paul
+# Hi 👋, I'm Himadri Paul
 
-💼 Salesforce Developer | Apex | LWC | Node.js
+### Salesforce Developer | React Learner | JavaScript Enthusiast
 
----
-
-## 🚀 About Me
-
-* 🔹 3+ years of experience in **Salesforce Development**
-* 🔹 Skilled in **Apex, Triggers, LWC, SOQL, REST APIs**
-* 🔹 Building **scalable CRM applications + backend APIs (Node.js)**
-* 🔹 Strong understanding of **system design & integration**
-* 🔹 Focused on writing **clean, maintainable code**
+I enjoy building scalable applications using Salesforce and modern web technologies. I like learning new technologies, solving coding problems, and creating projects that improve my development skills.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-💻 **Salesforce**
+### Salesforce
+- Apex
+- Lightning Web Components (LWC)
+- SOQL & SOSL
+- Triggers
+- Batch Apex
+- Queueable Apex
+- Future Methods
+- Platform Events
+- Flows
+- Validation Rules
+- Process Automation
+- REST API Integration
+- Named Credentials
+- OAuth
+- Salesforce DX (SFDX)
+- VS Code
+- Git & GitHub
 
-* Apex
-* Triggers
-* Lightning Web Components (LWC)
-* SOQL / SOSL
-* Batch Apex / Queueable
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- JSX
+- Components
+- Props
+- State Management
+- Hooks
+  - useState
+  - useEffect
+  - useRef
+  - useContext
+- React Router
+- Axios
+- Fetch API
+- Forms & Validation
+- Conditional Rendering
+- Event Handling
 
-🌐 **Backend (Node.js)**
+### Programming
+- JavaScript
+- Python
 
-* Node.js
-* Express.js
-* REST APIs
-* Middleware & Authorization
-* JWT Authentication
-
-📦 **Other Skills**
-
-* JavaScript
-* Java
-* Git & GitHub
-* API Integration
-* Agile / Scrum
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Salesforce LWC + Apex CRM
-
-👉 https://github.com/Himadri-sfdc/salesforce-lwc-apex-crm
-
-* Complete CRM system with Account & Contact management
-* LWC + Apex integration
-* Inline editing, parent-child communication
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Himadri-sfdc\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Himadri-sfdc\&layout=compact\&theme=tokyonight)
-
----
-
-## 🎯 Current Focus
-
-* 🚀 Advanced Apex & LWC Patterns
-* 🌐 Backend Development with Node.js
-* 📈 Preparing for Product-Based Companies
+### Database
+- Salesforce Data Model
+- SQL (Basics)
 
 ---
 
-## 🤝 Connect With Me
+## 📚 Currently Learning
 
-* 💼 LinkedIn: (Add your link here)
-* 📧 Email: (Add your email here)
+- Advanced React
+- LWC Best Practices
+- System Design Basics
+- Data Structures & Algorithms
+- Salesforce Integrations
+
+---
+
+## 💡 Areas of Interest
+
+- Salesforce Development
+- Lightning Web Components
+- React Applications
+- REST APIs
+- UI Development
+- Performance Optimization
+- Clean Code Practices
 
 ---
 
-## ⭐ Fun Fact
+## 🛠 Tools
 
-I build scalable systems using **Salesforce + Node.js combo** 🚀
+- Visual Studio Code
+- Salesforce CLI
+- Git
+- GitHub
+- Postman
+- Chrome DevTools
 
 ---
+
+## 🌱 What I Like
+
+- Building real-world projects
+- Learning new technologies
+- Writing clean and maintainable code
+- Exploring best development practices
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Himadri-sfdc
+- LinkedIn: *(Add your LinkedIn URL here)*
+
+---
+
+⭐ Feel free to explore my repositories and don't forget to star them if you find them useful.
