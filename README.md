@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Himadri</h1>
 
 <h3 align="center">
-Salesforce Developer | Apex | Lightning Web Components | React Learner
+Salesforce Developer | Apex | Lightning Web Components | React Basics
 </h3>
 
 <p align="center">
