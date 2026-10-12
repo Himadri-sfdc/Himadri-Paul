@@ -1,4 +1,4 @@
-<h1 align="center">👋 HI, I'm Himadri</h1>
+<h1 align="center">👋 Hi, I'm Himadri</h1>
 
 <h3 align="center">
 Salesforce Developer | Apex | Lightning Web Components | React Basics
